@@ -27,7 +27,7 @@ En reprenant notre exemple cela donnerai :
 /connect 10.13.1.7 6667 mdp
 ```
 
-Vous pouvez egalement vous connecter via **netcat** via un terminal :
+Vous pouvez egalement vous connecter avec **netcat** via un terminal :
 ```
 nc [ip] [port]
 PASS [password]
