@@ -63,6 +63,7 @@ Une fois un channel rejoint, faite appel au bot pour avoir un apercu des possibi
 <div>
   
 ### A admirer un magnifique feu d'artifice
+Attention a ne pas se bruler les doigts !
 <div>
   <img src="screenshot/IRCFIRE.png" width="400" height="200">
 <div>
