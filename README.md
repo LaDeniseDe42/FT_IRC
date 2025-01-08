@@ -73,6 +73,17 @@ Attention a ne pas se bruler les doigts !
   <img src="screenshot/JAIL.png" width="400" height="200">
 <div>
 
+## 🤝 Contribution
+
+Ce projet a été réalisé avec les personnes suivantes :
+
+- [Axel Kastler](https://github.com/ChromaXard)
+- [Alexandre Herrmann](https://github.com/alexandre6795)  
+- [Quentin Denizart](https://github.com/LaDeniseDe42)  
+
+
+
+
 
 
 
